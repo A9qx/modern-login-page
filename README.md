@@ -10,3 +10,5 @@ To ensure that the HTML file loads correctly and to facilitate ease of editing, 
 Username: ``A9qx``
 
 Password: ``andr@asistheG@0t``
+
+(I would recommend copy and pasting this in)
