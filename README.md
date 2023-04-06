@@ -2,9 +2,11 @@
 
 I have designed a login page using **HTML, CSS, and JavaScript** that is not only modern but also highly responsive.
 
+[Click here and see for yourself](https://a9qx.github.io/modern-login-page/)
+
 ## How to Use:
 
-<img src="https://i.imgur.com/hVSshjh.png"  width="60%" height="30%">
+<img src="https://i.imgur.com/hVSshjh.png"  width="50%" height="20%">
 
 To ensure that the HTML file loads correctly and to facilitate ease of editing, it is imperative to **use a Web Server**, such as the one available in VSCode, as **opposed to simply opening the file in Chrome**, as the latter may result in incorrect loading and cause unnecessary difficulties during the editing process.
 
