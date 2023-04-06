@@ -23,3 +23,4 @@ Password: ``andr@asistheG@0t``
  - Gradient that fades into different colors
  - Responsive Login
  - Easy to Use
+ - Smooth opening animation
