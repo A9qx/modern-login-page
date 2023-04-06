@@ -5,10 +5,10 @@ form.addEventListener('submit', function(event) {
   const username = document.getElementById('username').value;
   const password = document.getElementById('password').value;
 
-  // You can replace the following code with your own login logic
+  // Replace the following code with your own login authentication logic
   if (username === 'A9qx' && password === 'andr@asistheG@0t') {
-    alert('You are now logged in.');
+    window.location.href = 'https://www.youtube.com/watch?v=BpcNQ7nC4yg';
   } else {
-    alert('Invalid username or password.');
+    alert('Incorrect username or password');
   }
 });
